@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "454330184274",
+    "firebase_url": "https://epuka-ebola.firebaseio.com",
+    "project_id": "epuka-ebola",
+    "storage_bucket": "epuka-ebola.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454330184274:android:17bb243262b812a6",
+        "android_client_info": {
+          "package_name": "com.grain.epuka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454330184274-l2vb9tkrm5dlmb713bo1j677qos9loqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grain.epuka",
+            "certificate_hash": "86482c0a2c7e06a8be00df8c4b47e2c6bb8ac7cc"
+          }
+        },
+        {
+          "client_id": "454330184274-tjii13tur2iguchfohndk41ga7cjfiq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOBX8-W25PVJZ8IR9h4LK1gZtBOANLv_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454330184274-tjii13tur2iguchfohndk41ga7cjfiq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
